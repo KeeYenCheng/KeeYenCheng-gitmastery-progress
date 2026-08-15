@@ -149,23 +149,5 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1786763833.069929,
-    "completed_at": 1786763837.502312,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1786763898.373117,
-    "completed_at": 1786763902.853201,
-    "comments": [
-      "list index out of range"
-    ],
-    "status": "Error"
   }
 ]
