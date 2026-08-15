@@ -95,5 +95,14 @@
     "completed_at": 1786759868.888709,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786760068.726242,
+    "completed_at": 1786760073.294631,
+    "comments": [
+      "Did not add joe.txt"
+    ],
+    "status": "Incomplete"
   }
 ]
