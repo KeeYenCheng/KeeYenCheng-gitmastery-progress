@@ -18,60 +18,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "under-control",
-    "started_at": 1786699958.896808,
-    "completed_at": 1786699961.091701,
-    "comments": [
-      "Exercise is not a Git repository"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1786699975.846692,
-    "completed_at": 1786699977.899637,
-    "comments": [
-      "Exercise is not a Git repository"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1786700049.966645,
-    "completed_at": 1786700052.042247,
-    "comments": [
-      "Exercise is not a Git repository"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1786700073.751532,
-    "completed_at": 1786700076.24406,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "undo-init",
-    "started_at": 1786700653.77527,
-    "completed_at": 1786700656.225879,
-    "comments": [
-      "You have successfully undone the init operation!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1786758789.968001,
-    "completed_at": 1786758792.36204,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "log-and-order",
     "started_at": 1786759499.761213,
     "completed_at": 1786759504.57472,
@@ -131,5 +77,68 @@
       "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786699958.896808,
+    "completed_at": 1786699961.091701,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786699975.846692,
+    "completed_at": 1786699977.899637,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786700049.966645,
+    "completed_at": 1786700052.042247,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786700073.751532,
+    "completed_at": 1786700076.24406,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786758789.968001,
+    "completed_at": 1786758792.36204,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786700653.77527,
+    "completed_at": 1786700656.225879,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786761209.12422,
+    "completed_at": 1786761218.485785,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
   }
 ]
